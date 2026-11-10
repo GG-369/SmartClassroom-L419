@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node.js
+node_modules/
+dist/
+.vite/
+coverage/
+*.log
+
+# Local environment files
+.env.*
+!.env.example
